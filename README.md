@@ -1,1 +1,1 @@
-# Software-engineering-Project-TimeTable-Scheduling-Web-App-
+Automatic Timetable Generator COE 356
